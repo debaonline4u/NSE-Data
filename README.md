@@ -3,12 +3,10 @@ Size of data: 6.5 GB
 
 You can download from Google Drive https://drive.google.com/drive/folders/10pmUnHbT01rORkofkTzl1hB1eNtPZrOR?usp=sharing
 
-I found this data in the drive and have just linked to the drive. 
+I found this data in the drive and have just linked to the drive. [I don't won them]
 
-
-  Live Nifty 50 Indices and stocks data are collected and uploaded here. [I don't won it]
-  Stocks in Nifty 50 and NSE Next 50 data are uploaded here.  
-  The soul purpose to store live data is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
+  Long time, I was searching for Nifty 50 stocks and index data for my strategy building and back testing. Finally I found this drive, where Nifty 50 and NSE Next 50 stock and index data are uploaded.  
+  The soul purpose to share this link is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
   This folder contains stocks with different time intervals. Those are: 
 
     1 Minute, 
