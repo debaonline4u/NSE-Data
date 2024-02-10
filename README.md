@@ -3,6 +3,8 @@ Size of data: 6.5 GB
 
 You can download from Google Drive [Link Here](https://drive.google.com/drive/folders/10pmUnHbT01rORkofkTzl1hB1eNtPZrOR?usp=sharing)
 
+Some New Links: [2024 NSE Index Minute data](https://drive.google.com/drive/folders/1zThEsziq0f4QpbdPyB3Z8F1pcKifmT3x?usp=sharing)
+
 I found this data in the drive and have just linked to the drive. [I don't won them]
 
   Long time, I was searching for Nifty 50 stocks and index data for my strategy building and back testing. Finally I found this drive, where Nifty 50 and NSE Next 50 stock and index data are uploaded.  
